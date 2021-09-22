@@ -1,5 +1,5 @@
 ---
-title: Happy_faces_at_Hyacinth
+title: Happy faces at Hyacinth
 tags: TeXt
 
 ---
