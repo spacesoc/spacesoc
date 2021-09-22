@@ -1,6 +1,8 @@
 ---
-title: Welcome-(copy)
+title: project 1
 tags: TeXt
 
 ---
-The UCT Space and Astronomy Society (UCT SpaceSoc), seeing astronomy and the Space economy as an integral part of both the University of Cape Town and broader South African Society, constitutes the Society, also as being a voluntary chapter of the SEDS South Africa (Students for the Exploration and Development of Space). The UCT SpaceSoc seeks to bring together all students and staff at UCT with an interest in astronomy and the Space industry, under a philosophy of accessibility, non-racialism and non-sexism, a commitment to transformation and in a democratic manner in all affairs of the Society, so that each member of the Society is able to realise his/her/their full potential.
+Children of Hyacinth Primary School receiving 100 printed copies of the Fun with Space Workbook. UCT SpaceSoc members created the workbook as part of our community service program for children aged 6-10. The Fun with Space Workbook is not only based on the curriculum but also explores various space themes.
+
+We welcome you to help us distribute more copies by getting in touch with us through our social media pages and email: spacesoc@myuct.ac.za![🚀](https://static.xx.fbcdn.net/images/emoji.php/v9/tc6/1/16/1f680.png =16x16)![🌠](https://static.xx.fbcdn.net/images/emoji.php/v9/t49/1/16/1f320.png =16x16)![](/uploads/131888973_2906398982927370_5000939819416048751_n.jpg)![](/uploads/131893781_2906399059594029_5744295800527371350_n.jpg)
